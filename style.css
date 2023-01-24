@@ -1,0 +1,19 @@
+
+/* header {
+    background-color: dodgerblue;
+} */
+
+body > header {
+	background-color:blue;
+}
+
+.comment {
+	display: block;
+	transition: all 1s;
+}
+.commentClicked {
+	min-height: 0px;
+	border: 1px solid #eee;
+	border-radius: 5px;
+	padding: 5px 10px
+}
